@@ -5,6 +5,7 @@ import { Filter } from './Filter/Filter';
 import { ContactList } from './ContactList/ContactList';
 import '../index.css';
 
+
 export class App extends Component {
   state = {
     contacts: [
